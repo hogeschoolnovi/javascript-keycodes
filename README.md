@@ -1,3 +1,5 @@
+# Key codes JavaScript
+
 | Toets            | key code |
 |------------------|----------|
 | backspace        | 8        |
